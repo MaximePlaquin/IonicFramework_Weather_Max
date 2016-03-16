@@ -1,0 +1,28 @@
+/* Empty. Add your own CSS if you like */
+.row-title{
+  height: 60px; line-height: 60px;
+  text-transform: uppercase;
+  background-color: #cb314b;
+  border-radius (4px 4px 0 0);
+  background-clip(padding-box);
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+.date{
+  top:0;
+  left: 25px;
+
+}
+.temperature{
+  top: 45px;
+  left: 25px;
+  font-size: 70px;
+  line-height: 70px;
+}
+.row{
+  border: 1px solid black;
+      background-color: antiquewhite;
+      color: cadetblue;
+}
